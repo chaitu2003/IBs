@@ -20,7 +20,7 @@ h2 {
   padding-right: 25px;
   background: beige;
   border-radius: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 button {
@@ -40,4 +40,11 @@ button:hover {
 .divider {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.op {
+  background: whitesmoke;
+  border-radius: 10px;
+  width: 100%;
+  height: fit-content;
 }
