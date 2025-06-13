@@ -12,7 +12,7 @@ function heart() {
 }
 function tool() {
   document.getElementById("displayif").innerHTML =
-    '<iframe src="../basic_diagnostic_tool/index.html" width="100%" height="470" style="border: none"></iframe> ';
+    '<iframe src="https://chaitu2003.github.io/Diagnostic-Tool/" width="100%" height="470" style="border: none"></iframe> ';
 }
 function lab() {
   document.getElementById("displayif").innerHTML =
