@@ -1,6 +1,6 @@
 function ifclick() {
   document.getElementById("displayif").innerHTML =
-    '<iframe src="../bmi/index.html" width="100%" height="470" style="border: none" ></iframe>';
+    '<iframe src="https://chaitu2003.github.io/BMI_Calculator/" width="100%" height="470" style="border: none" ></iframe>';
 }
 function Portfolio() {
   document.getElementById("displayif").innerHTML =
