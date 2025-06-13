@@ -8,7 +8,7 @@ function Portfolio() {
 }
 function heart() {
   document.getElementById("displayif").innerHTML =
-    '<iframe src="../heart_disease_risk/index.html" width="100%" height="470" style="border: none"></iframe> ';
+    '<iframe src="https://chaitu2003.github.io/Heart-Disease-Risk/" width="100%" height="470" style="border: none"></iframe> ';
 }
 function tool() {
   document.getElementById("displayif").innerHTML =
