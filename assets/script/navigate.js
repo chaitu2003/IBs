@@ -16,5 +16,5 @@ function tool() {
 }
 function lab() {
   document.getElementById("displayif").innerHTML =
-    '<iframe src="../lab_test_results/index.html" width="100%" height="470" style="border: none"></iframe> ';
+    '<iframe src="https://chaitu2003.github.io/Lab-Test-Results/" width="100%" height="470" style="border: none"></iframe> ';
 }
