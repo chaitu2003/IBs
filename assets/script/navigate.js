@@ -4,7 +4,7 @@ function ifclick() {
 }
 function Portfolio() {
   document.getElementById("displayif").innerHTML =
-    ' <iframe src="../portfolio/index.html" width="100%" height="470" style="border: none" ></iframe> ';
+    ' <iframe src="https://chaitu2003.github.io/" width="100%" height="470" style="border: none" ></iframe> ';
 }
 function heart() {
   document.getElementById("displayif").innerHTML =
