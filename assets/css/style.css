@@ -3,6 +3,15 @@ h2 {
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.data {
+  background: pink;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 .btns {
   display: flex;
   justify-content: space-between;
@@ -13,6 +22,7 @@ h2 {
   border-radius: 10px;
   padding-bottom: 10px;
 }
+
 button {
   cursor: pointer;
   border-radius: 7px;
@@ -22,6 +32,7 @@ button {
   width: 15%;
   height: 5vh;
 }
+
 button:hover {
   transform: translateY(-3px);
 }
